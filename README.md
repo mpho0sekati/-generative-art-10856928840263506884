@@ -6,6 +6,8 @@
 
 - :wrench: [Examples](./examples/)
 
+- 🌙 [Animated cow jumps over the moon](./examples/animated-cow-jumps-moon.js)
+
 #
 
 <p align="center">
